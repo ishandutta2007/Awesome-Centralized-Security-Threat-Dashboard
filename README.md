@@ -1,6 +1,6 @@
 # Awesome-Centralized-Security-Threat-Dashboard
 
-# Top Centralized Security & Threat Dashboard Ecosystem
+## Top Centralized Security & Threat Dashboard Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Unified Security Posture, Threat Detection & Compliance Visibility*  
